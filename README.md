@@ -1,4 +1,4 @@
-# Solar SAil Rendezvous Q-Law Framework
+# Solar Sail Rendezvous Q-Law Framework
 
 This framework is a Python-based astrodynamics simulation environment designed to optimize and evaluate continuous-thrust orbital maneuvers for solar sails. It is based on the Q-Law (a Lyapunov feedback control algorithm) to calculate real-time thrust vectors for both Ion Propulsion and Solar Sail spacecraft. 
 
